@@ -1,6 +1,6 @@
-# 100 Days of Code Challenge
+# We've joined the #100DaysOfCode Challenge
 
-Coding challenge with Bere
+Coding challenge with Bere (check her repo [here](https://github.com/higabere/100-Days-of-code-challenge)).
 
 ## Day 1
 
