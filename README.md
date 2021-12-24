@@ -5,3 +5,7 @@ Coding challenge with Bere (check her repo [here](https://github.com/higabere/10
 ## Day 1
 
 [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+## Day 2
+
+[Search Insert Position](https://leetcode.com/problems/search-insert-position/)
