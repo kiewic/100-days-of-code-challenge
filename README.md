@@ -9,3 +9,7 @@ Coding challenge with Bere (check her repo [here](https://github.com/higabere/10
 ## Day 2
 
 [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+
+## Day 3
+
+[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
